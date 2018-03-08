@@ -1,0 +1,16 @@
+[
+  {
+    "name": "France",
+    "iso2": "fr",
+    "dialCode": "33",
+    "priority": 0,
+    "areaCodes": null
+  },
+  {
+    "name": "Switzerland (Schweiz)",
+    "iso2": "ch",
+    "dialCode": "41",
+    "priority": 0,
+    "areaCodes": null
+  }
+]
